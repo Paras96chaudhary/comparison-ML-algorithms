@@ -1,1 +1,2 @@
 # comparison-ML-algorithms
+This census income project is taken from kaggle, and after comparison of two machine learning algorithms i.e.(Logistic Regression and Random Forest) calculated the accuracy. After import the data there is Exploratory Data Analysis and visualization of data, after cleaning got the accuracy of 77 percent with Logistic Regression and 86 percent with Random Forest algorithms. The ipynb file is attached with the same.
